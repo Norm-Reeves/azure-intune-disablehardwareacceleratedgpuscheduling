@@ -7,7 +7,7 @@ This was created as part of the solution for X1 battery issues.
 
 Download .intunewin
 =========
-
+https://github.com/Norm-Reeves/azure-intune-disablehardwareacceleratedgpuscheduling/releases/download/v1.0/disableHardwareAcceleratedGPUScheduling.intunewin
 
 Change Log:
 ============
